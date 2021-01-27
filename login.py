@@ -20,4 +20,4 @@ def login(url, usernameId, username, passwordId, password, submit_buttonId):
     driver.find_element_by_id(submit_buttonId).click()
 
 
-login(LOGIN_URL, "registeredPlayerLogin", myNick, "password", myPassword, )
+login(LOGIN_URL, "registeredPlayerLogin", myNick, "password", myPassword,SUBMIT_BTN)
