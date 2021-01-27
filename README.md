@@ -21,8 +21,8 @@ Currently automating the following tasks
 1. Automate all the tasks
 
 ## TO CONTRIBUTE:
-Fork the Project
-Create your Feature Branch
-Commit your Changes
-Push to the Branch
-Open a Pull Request
+* Fork the Project
+* Create your Feature Branch
+* Commit your Changes
+* Push to the Branch
+* Open a Pull Request
