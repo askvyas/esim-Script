@@ -21,3 +21,9 @@ def login(url, usernameId, username, passwordId, password, submit_buttonId):
 
 
 login(LOGIN_URL, "registeredPlayerLogin", myNick, "password", myPassword,SUBMIT_BTN)
+# defining signup function
+def signup(url, usernameId, username, passwordId, password, submit_buttonId):
+    driver.find_element_by_id(usernameId).send_keys(username)
+    driver.find_element_by_name(passwordId).click()
+    driver.find_element_by_name(passwordId).send_keys(password)
+    driver.find_element_by_id(submit_buttonId).click()

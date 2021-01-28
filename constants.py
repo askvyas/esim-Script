@@ -12,3 +12,6 @@ WORK_URL="https://www.secura.e-sim.org/work.html"
 
 SUBMIT_BTN="Submit"
 WORK_BTN="workButton"
+
+# reg button
+REG_BTN="signIn3"
