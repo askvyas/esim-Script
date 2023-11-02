@@ -12,13 +12,8 @@ To automate the tasks in a Massively Multiplayer online Role Playing game e-sim(
 ## Current Workflow:
 Currently automating the following tasks
 1. Login
-1. Work
-
-
-## TO DO:
-1. Fill the password and click the submit/login button.
-1. To do simple tasks in-game
-1. Automate all the tasks
+2. Train
+3. Work
 
 ## TO CONTRIBUTE:
 * Fork the Project
